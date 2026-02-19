@@ -1,4 +1,4 @@
-package com.example.inventorybackend.controller;
+package controller;
 
 import com.example.inventorybackend.model.Product;
 import com.example.inventorybackend.service.ProductService;

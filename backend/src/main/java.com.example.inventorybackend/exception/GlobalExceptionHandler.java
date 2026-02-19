@@ -1,4 +1,4 @@
-package com.example.inventorybackend.exception;
+package exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

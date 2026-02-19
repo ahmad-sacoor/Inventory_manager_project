@@ -1,4 +1,4 @@
-package com.example.inventorybackend.exception;
+package exception;
 
 public class ProductNotFoundException extends RuntimeException {
 

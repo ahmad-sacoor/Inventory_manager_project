@@ -1,8 +1,8 @@
-package com.example.inventorybackend.service;
+package service;
 
-import com.example.inventorybackend.exception.ProductNotFoundException;
+import exception.ProductNotFoundException;
 import com.example.inventorybackend.model.Product;
-import com.example.inventorybackend.repository.ProductRepository;
+import repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

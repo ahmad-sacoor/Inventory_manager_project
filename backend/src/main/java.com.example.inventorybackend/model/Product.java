@@ -1,4 +1,4 @@
-package com.example.inventorybackend.model;
+package model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

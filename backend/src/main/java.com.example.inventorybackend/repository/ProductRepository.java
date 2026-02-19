@@ -1,4 +1,4 @@
-package com.example.inventorybackend.repository;
+package repository;
 
 import com.example.inventorybackend.model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
