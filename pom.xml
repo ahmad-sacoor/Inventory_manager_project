@@ -14,7 +14,7 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>inventory-backend</artifactId>
+    <artifactId>inventory-app</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>inventory-backend</name>
     <description>Inventory Manager REST API</description>
