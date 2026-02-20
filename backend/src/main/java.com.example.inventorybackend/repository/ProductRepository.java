@@ -1,6 +1,6 @@
 package repository;
 
-import com.example.inventorybackend.model.Product;
+import model.Product;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

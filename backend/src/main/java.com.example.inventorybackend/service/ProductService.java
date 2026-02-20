@@ -1,7 +1,7 @@
 package service;
 
 import exception.ProductNotFoundException;
-import com.example.inventorybackend.model.Product;
+import model.Product;
 import repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
