@@ -1,7 +1,7 @@
-package controller;
+package com.example.inventorybackend.controller;
 
-import model.Product;
-import service.ProductService;
+import com.example.inventorybackend.model.Product;
+import com.example.inventorybackend.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
